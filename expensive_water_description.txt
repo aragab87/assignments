@@ -1,0 +1,9 @@
+Describe what I did in the code: 
+Use terminology from class. command, STOUT, STDIN, ping, argument
+
+We created a filter program using Python named filter.py
+This filter program does not use an argument but the STDIN of the previous command
+Pipe to do that
+Run the program on 2017 quarter 1 expenditure file 
+Pyhton program creates a list of the entries where water is above 1000 
+We save this output into expensive_water.csv
