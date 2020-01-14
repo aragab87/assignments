@@ -1,0 +1,132 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (2x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         21 characters
+	Most common values:    OFFICE OF THE SPEAKER (2x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (2x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         20 characters
+	Most common values:    GENERAL EXPENDITURES (2x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (2x)
+
+  6. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (2x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (2x)
+
+  8. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (2x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         17 characters
+	Most common values:    ALTHOUSE JOSHUA S (2x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2017-01-01
+	Largest value:         2017-01-03
+	Most common values:    2017-01-03 (1x)
+	                       2017-01-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2017-01-02
+	Largest value:         2017-03-31
+	Most common values:    2017-03-31 (1x)
+	                       2017-01-02 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         30 characters
+	Most common values:    CONSERVATIVE OUTREACH DIRECTOR (2x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        444,44
+	Largest value:         19.555,57
+	Sum:                   20.000,01
+	Mean:                  10.000,005
+	Median:                10.000,005
+	StDev:                 13.513,61
+	Most common values:    19.555,57 (1x)
+	                       444,44 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2.017
+	Largest value:         2.017
+	Sum:                   4.034
+	Mean:                  2.017
+	Median:                2.017
+	StDev:                 0
+	Most common values:    2.017 (2x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         17 characters
+	Most common values:    ALTHOUSE JOSHUA S (2x)
+
+Row count: 2

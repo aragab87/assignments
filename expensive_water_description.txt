@@ -1,9 +1,7 @@
 Describe what I did in the code: 
 Use terminology from class. command, STOUT, STDIN, ping, argument
 
-We created a filter program using Python named filter.py
-This filter program does not use an argument but the STDIN of the previous command
-Pipe to do that
-Run the program on 2017 quarter 1 expenditure file 
-Pyhton program creates a list of the entries where water is above 1000 
-We save this output into expensive_water.csv
+Wrote a filter program in python named filter.py
+Downloaded and curled the csv file "2017Q1-house-disburse-detail.csv" and piped the python program filter.py. We had to pipe cause filter.py does not use an argument but the STDIN of the previous  which in this case is the information in the csv file
+
+The program filter.py runs a loop over the 2017 Q1 expenditure data where every row that fullfills the conditions 1) Purpose is Water and 2) amount of spending over 1000 are written into the output. This output is then saved into expensive_water.csv

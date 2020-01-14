@@ -1,0 +1,1 @@
+Instead of filtering and creating a new file that contains all lines where the expenditure on water exceeded 1000, I filtered for lines where the purpose of the spending was conservative outreach director. Given that is not a standarized purpose, there were only two lines with that purpose. 
