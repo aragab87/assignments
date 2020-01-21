@@ -20,6 +20,7 @@ function divide(a,b){
     return a / b
 }
 
+//Print explanation of the operation below
 console.log("I'm going use the calculator functions to divide 6 and 2")
 var x = divide(6,2)
 console.log(x)  
