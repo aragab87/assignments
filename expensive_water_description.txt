@@ -1,5 +1,4 @@
 Describe what I did in the code: 
-Use terminology from class. command, STOUT, STDIN, ping, argument
 
 Wrote a filter program in python named filter.py
 Downloaded and curled the csv file "2017Q1-house-disburse-detail.csv" and piped the python program filter.py. We had to pipe cause filter.py does not use an argument but the STDIN of the previous  which in this case is the information in the csv file
